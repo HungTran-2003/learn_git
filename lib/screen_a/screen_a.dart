@@ -11,7 +11,7 @@ class _ScreenAState extends State<ScreenA> {
   @override
   Widget build(BuildContext context) {
     return Center(
-
+      child: const Placeholder(),
     );
   }
 }
