@@ -11,7 +11,9 @@ class _ScreenAState extends State<ScreenA> {
   @override
   Widget build(BuildContext context) {
     return SizedBox(
-      
+        height: 50,
+      width: 50,
+      child: const Placeholder(),
     );
   }
 }
