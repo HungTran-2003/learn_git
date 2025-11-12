@@ -10,6 +10,8 @@ class ScreenA extends StatefulWidget {
 class _ScreenAState extends State<ScreenA> {
   @override
   Widget build(BuildContext context) {
-    return const Placeholder();
+    return SizedBox(
+      
+    );
   }
 }
